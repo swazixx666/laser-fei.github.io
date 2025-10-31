@@ -1,0 +1,18 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BeautySalon",
+  "name": "Laser Fei",
+  "description": "Студия лазерной эпиляции в Симферополе и Луганске",
+  "url": "https://ваш-сайт.ru",
+  "telephone": "+79519847341",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Симферополь",
+    "streetAddress": "Ул. Некрасова 21, 2 этаж"
+  },
+  "openingHours": "Mo-Su 09:00-21:00",
+  "priceRange": "₽₽",
+  "areaServed": ["Симферополь", "Луганск"]
+}
+</script>
